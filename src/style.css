@@ -1,0 +1,1 @@
+*,:after,:before{content:'#';display:block;letter-spacing:-6px;animation:a 1s infinite;color:#ff69b4;background:#ff0 linear-gradient(lime 50%,red 50%);background-size:3em 3em}@keyframes a{50%{background-position:3em;filter:hue-rotate(99deg);transform:skew(-50deg)translate(-1em)}}
